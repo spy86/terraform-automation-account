@@ -1,16 +1,16 @@
 ###########################
 # Common vars
 ###########################
-envirioment = ""
-tag_envirioment = ""
-resource_owner = ""
+envirioment = "dev"
+tag_envirioment = "dev"
+resource_owner = "Test organization"
 ###########################
 # Resource groups vars
 ###########################
-rg_location = ""
-rg_name = ""
+rg_location = "West Europe"
+rg_name = "weu-dev-rg"
 ###########################
 # AUTOMATION ACCOUNT vars
 ###########################
-automation_account_name = ""
-automation_account_sku_name = ""
+automation_account_name = "AutomationAccount1"
+automation_account_sku_name = "Basic"
