@@ -7,7 +7,6 @@
 | Name | Version |
 |------|---------|
 | azurem | latest |
-| azurerm | latest |
 
 ## Inputs
 
